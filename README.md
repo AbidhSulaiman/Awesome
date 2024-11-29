@@ -6,8 +6,6 @@ This platform allows users to share beautiful images they like or find interesti
 
 ## Demo
 
-Insert gif or link to demo
-
 
 ## Documentation
 
@@ -25,7 +23,6 @@ Clone the project
     
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 ## Tech Stack
